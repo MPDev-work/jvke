@@ -34,7 +34,7 @@ export default function Contact() {
     const body = encodeURIComponent(
       `${form.message}\n\n— ${form.name} (${form.email})`,
     );
-    window.location.href = `mailto:hello@jvke.dev?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:pisalmony.work@gmail.com?subject=${subject}&body=${body}`;
   };
 
   return (
