@@ -1,0 +1,16 @@
+export const technologies = [
+  { index: '01', name: 'React', note: 'Component-driven interfaces' },
+  { index: '02', name: 'JavaScript', note: 'Core application logic' },
+  { index: '03', name: 'TypeScript', note: 'Typed, maintainable code' },
+  { index: '04', name: 'Vite', note: 'Fast development tooling' },
+  { index: '05', name: 'Tailwind', note: 'Utility-first styling' },
+  { index: '06', name: 'Node.js', note: 'Server-side runtime' },
+  { index: '07', name: 'Express', note: 'API and routing layer' },
+  { index: '08', name: 'Laravel', note: 'PHP application framework' },
+  { index: '09', name: 'PHP', note: 'Backend scripting' },
+  { index: '10', name: 'MySQL', note: 'Relational data storage' },
+  { index: '11', name: 'Firebase', note: 'Realtime backend services' },
+  { index: '12', name: 'Supabase', note: 'Postgres backend platform' },
+  { index: '13', name: 'FFmpeg', note: 'Media processing' },
+  { index: '14', name: 'Git', note: 'Version control' },
+];
